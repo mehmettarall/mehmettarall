@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <img align="right" alt="Coding" width="400" src="add your link 
-  here">
+  <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*a3sQqcmd4umodyjD">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmettarall&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
