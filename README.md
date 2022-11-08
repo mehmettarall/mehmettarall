@@ -48,4 +48,4 @@ Here are some ideas to get you started:
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmettarall&show_icons=true&theme=tokyonight)
  
- ![Snake animation](https://github.com/mehmettarall/mehmettarall/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mehmettarall/mehmettarall/blob/output/github-contribution-grid-snake.svg)
