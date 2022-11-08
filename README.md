@@ -47,3 +47,5 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmettarall&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmettarall&show_icons=true&theme=tokyonight)
+ 
+ ![Snake animation](https://github.com/mehmettarall/mehmettarall/blob/output/github-contribution-grid-snake.svg)
