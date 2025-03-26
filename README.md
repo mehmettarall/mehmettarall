@@ -1,7 +1,7 @@
 <h1 align="center">👋 Merhaba, ben Mehmet Aral</h1>
 
 <p align="center">
-  Flutter 💙 ile mobil uygulamalar geliştiriyorum.
+  Flutter ile mobil uygulamalar geliştiriyorum.
   <br />
   Kod yazmayı, öğrenmeyi ve üretmeyi seviyorum.
 </p>
