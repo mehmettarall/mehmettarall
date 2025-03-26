@@ -36,7 +36,7 @@
 ## 📈 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmettarall&show_icons=true&theme=radical" height="170" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmettarall&layout=compact&theme=radical" height="170" />
 </p>
 
