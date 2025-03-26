@@ -1,51 +1,63 @@
-### Hi there 👋
-
-<!--
-**mehmettarall/mehmettarall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center"><img src="https://images.hdqwalls.com/wallpapers/miami-sunset-artistic-4k-nk.jpg" alt="ss" /></div>
-
-<br/>
-
-## ✉️ Find me on:
-
+<h1 align="center">👋 Merhaba, ben Mehmet Aral</h1>
 
 <p align="center">
- <a href="https://github.com/mehmettarall?tab=repositories" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/mehmetarall/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mehmetaral06@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  Flutter 💙 ile mobil uygulamalar geliştiriyorum.
+  <br />
+  Kod yazmayı, öğrenmeyi ve üretmeyi seviyorum.
 </p>
 
-<br />
- <br />
+<div align="center">
+  <img src="https://images.hdqwalls.com/wallpapers/miami-sunset-artistic-4k-nk.jpg" alt="banner" width="100%" />
+</div>
 
-## 🧰 Languages and Tools:
+---
+
+## 💼 Hakkımda
+
+- 🚀 Aktif olarak Flutter ile mobil uygulamalar geliştiriyorum.  
+- 🔍 Firebase, REST API, BLE (Bluetooth Low Energy), arka plan servisleri gibi konularla ilgileniyorum.  
+- 🌱 Şu anda `Riverpod`, `Clean Architecture`, `Flutter Web` konularında derinleşiyorum.  
+- ✉️ Bana ulaşmak için: **mehmetaral06@gmail.com**  
+- 🛠️ VSCode + Android Studio ile çalışıyorum.
+
+---
+
+## 🚀 Kullandığım Teknolojiler
+
 <p align="center">
-  <img src="https://dartpad.dev/pictures/logo_flutter.png" alt="Dart" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://www.donanimhaber.com/images/images/haber/122251/340x1912xgoogle-android-studio-4-0-i-yayinladi.jpg" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
-  
-  
-<br />
-  <br />
-  <br />
-  
-  
-  
-  <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*a3sQqcmd4umodyjD">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmettarall&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmettarall&show_icons=true&theme=tokyonight)
- 
-  ![Snake animation](https://github.com/mehmettarall/mehmettarall/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmettarall&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmettarall&layout=compact&theme=radical" height="170" />
+</p>
+
+---
+
+## 🌐 Sosyal Medya
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehmetarall/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mehmetaral06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mehmettarall?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> 💡 Profil README dosyan Flutter geliştirici kimliğini yansıtsın istiyorsan, sık sık güncelleyip son projelerini ve gelişmelerini ekleyebilirsin!
