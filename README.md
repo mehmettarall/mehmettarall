@@ -1,5 +1,5 @@
 <!-- Banner: Flutter temalı, kendinize uygun şekilde değiştirebilirsiniz -->
-<img src="https://raw.githubusercontent.com/mehmettarall/mehmettarall/main/banner_flutter_github.png" alt="Banner" />
+<!-- <img src="https://raw.githubusercontent.com/mehmettarall/mehmettarall/main/banner_flutter_github.png" alt="Banner" />-->
 
 <h1 align="center">👋 Merhaba, ben Mehmet Aral</h1>
 
