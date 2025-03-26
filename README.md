@@ -3,7 +3,7 @@
 <p align="center">
   Flutter ile mobil uygulamalar geliştiriyorum.
   <br />
-  Kod yazmayı, öğrenmeyi ve üretmeyi seviyorum.
+
 </p>
 
 
