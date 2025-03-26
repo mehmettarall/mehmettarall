@@ -13,27 +13,25 @@
 ## 💼 Hakkımda
 
 - 🚀 Aktif olarak Flutter ile mobil uygulamalar geliştiriyorum.  
-- 🔍 Firebase, REST API, BLE (Bluetooth Low Energy), arka plan servisleri gibi konularla ilgileniyorum.  
-- 🌱 Şu anda `Riverpod`, `Clean Architecture`, `Flutter Web` konularında derinleşiyorum.  
+- 🔍 Firebase, REST API, Arka plan servisleri, Otomasyon gibi konularla ilgileniyorum.  
+- 🌱 Şu anda `Bloc`, `Clean Architecture`, `Flutter Web` konularında derinleşiyorum.  
 - ✉️ Bana ulaşmak için: **mehmetaral06@gmail.com**  
 - 🛠️ VSCode + Android Studio ile çalışıyorum.
 
 ---
 
-## 🚀 Kullandığım Teknolojiler
+## 🚀 Kullanılanlar
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 GitHub İstatistikleri
+## 📈 İstatistikler
 
 <p align="center">
 
