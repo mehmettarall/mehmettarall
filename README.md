@@ -17,7 +17,7 @@
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z2ZWwyenVvMnppamVyZXRtNHQ3ZnF6Nzhta3U1aThzN2ZycmU0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="150" alt="Flutter Animasyonu"/>
 
 - 🚀 Aktif olarak Flutter ile mobil uygulamalar geliştiriyorum.
-- 🔍 Firebase, REST API, Arka plan servisleri, Otomasyon gibi konularla ilgileniyorum.
+- 🔍 Firebase, REST API, P2P, Arka plan servisleri, Otomasyon gibi konularla ilgileniyorum.
 - 🌱 Şu anda `Bloc`, `Clean Architecture`, `Flutter Web` konularında derinleşiyorum.
 - ✉️ Bana ulaşmak için: **mehmetaral06@gmail.com**
 - 🛠️ VSCode + Android Studio ile çalışıyorum.
