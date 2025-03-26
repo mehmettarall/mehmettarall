@@ -14,7 +14,7 @@
 
 ## 💼 Hakkımda
 
-<img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Flutter Animasyonu"/>
+<img align="right" src="[https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z2ZWwyenVvMnppamVyZXRtNHQ3ZnF6Nzhta3U1aThzN2ZycmU0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif)" width="250" alt="Flutter Animasyonu"/>
 
 - 🚀 Aktif olarak Flutter ile mobil uygulamalar geliştiriyorum.
 - 🔍 Firebase, REST API, Arka plan servisleri, Otomasyon gibi konularla ilgileniyorum.
