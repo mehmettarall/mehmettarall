@@ -6,9 +6,7 @@
   Kod yazmayı, öğrenmeyi ve üretmeyi seviyorum.
 </p>
 
-//<div align="center">
-  //<img src="https://images.hdqwalls.com/wallpapers/miami-sunset-artistic-4k-nk.jpg" alt="banner" width="100%" />
-//</div>
+
 
 ---
 
